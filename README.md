@@ -1,2 +1,7 @@
 # Business-Card-Propia
-Created with CodeSandbox
+
+Business Card Propia con mis datos
+
+Ejemplo de practica en React , Curso React Figma
+
+![screenshot](https://i.imgur.com/PN6DpKV.png)
